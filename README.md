@@ -3,7 +3,7 @@
 
 
 ##Demo
-Live Demo:   
+Live Demo:   http://freeslide.github.io/
 
 
 ##Usage
